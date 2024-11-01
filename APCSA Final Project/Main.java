@@ -12,7 +12,7 @@ progress to the cargo hold, removing any aliens spawners you find
 while making sure to get rid of the aliens that attacked your ship. 
 You start with a simple weapon, but can find better ones as you go 
 through the ship. You can also refill your ammo and health with 
-specieal boxes that you can find in the ship.
+special boxes that you can find in the ship.
 
 Controls:
 
